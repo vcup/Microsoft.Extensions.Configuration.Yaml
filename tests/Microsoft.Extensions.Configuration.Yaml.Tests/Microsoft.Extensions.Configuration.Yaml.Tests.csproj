@@ -14,4 +14,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.0"/>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Microsoft.Extensions.Configuration.Yaml\Microsoft.Extensions.Configuration.Yaml.csproj" />
+  </ItemGroup>
+
 </Project>
