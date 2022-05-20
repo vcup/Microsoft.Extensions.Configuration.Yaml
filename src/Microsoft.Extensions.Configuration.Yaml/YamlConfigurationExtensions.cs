@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.FileProviders;
+using Microsoft.Extensions.Configuration.Yaml;
 
-namespace Microsoft.Extensions.Configuration.Yaml;
+namespace Microsoft.Extensions.Configuration;
 
 public static class YamlConfigurationExtensions
 {
