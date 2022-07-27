@@ -1,4 +1,4 @@
-﻿using Microsoft.Extensions.Configuration.Yaml.Tests.Common;
+using Microsoft.Extensions.Configuration.Yaml.Tests.Common;
 using NUnit.Framework;
 
 namespace Microsoft.Extensions.Configuration.Yaml.Tests;

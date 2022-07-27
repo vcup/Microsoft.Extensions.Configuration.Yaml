@@ -1,4 +1,4 @@
-﻿namespace Microsoft.Extensions.Configuration.Yaml;
+namespace Microsoft.Extensions.Configuration.Yaml;
 
 public class YamlStreamConfigurationProvider : StreamConfigurationProvider
 {
